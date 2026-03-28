@@ -87,8 +87,7 @@ dll.traverse_list()
 ```
 
 ## Sample Output
-![Uploading Screenshot 2026-03-28 095020.png…]()
-
+<img width="257" height="175" alt="Screenshot 2026-03-28 095020" src="https://github.com/user-attachments/assets/88aaa573-6feb-4ec5-ab19-eafb527b7146" />
 
 ## Result
 Thus, the python program that insert elements at the end of a doubly linked list is executed successfully.
